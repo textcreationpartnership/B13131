@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King. A proclamation against false packing vp of butter, and other deceits and misdemeanors concerning butter-caske, discouered since the publishing of a former proclamation in that behalfe.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B13131</idno><idno type="EEBO-CITATION">99892702</idno>
+  <idno type="VID">188368</idno>
+  <idno type="EEBO-PROQUEST">2240929353</idno>
+  
+            <idno type="STC">STC 9090</idno>
+            <idno type="STC">Interim Tract Supplement Guide 1851.b.3[16]</idno>
+            <idno type="STC">ESTC S123878</idno>
+            <idno type="PROQUEST">ocm99892702</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892702e"/>
+            <note>(EEBO-TCP ; phase 2, no. B13131)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188368)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C10:2[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King. A proclamation against false packing vp of butter, and other deceits and misdemeanors concerning butter-caske, discouered since the publishing of a former proclamation in that behalfe.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie: and by the assignes of Iohn Bill,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1637]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: ... Oatlands, the sixteenth day of Iuly, in the thirteenth yeere of Our reigne.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Arms 24; Steele notation: Free committed 2) from tender.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Butter trade --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Food containers --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:188368:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </head>
+            <head>¶ By the King.</head>
+            <head>¶ A Proclamation against false packing vp of Butter, and other deceits and misdemeanors concerning Butter-Caske, discouered since the publishing of a former Procla<g ref="char:EOLhyphen"/>mation in that behalfe.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>Hereas vpon the humble Petition of Our louing Subjects the Free</hi> men of Our City of <hi>London,</hi> trading in Butter and Cheese, We caused Our Royall Proclamation to be published for prevention of many frauds and abuses, which had beene frequently practised as well in the overweight of Butter-Caske, as in the false packing of But<g ref="char:EOLhyphen"/>ter; Notwithstanding which Our Royall intention, and the vigi<g ref="char:EOLhyphen"/>lant care of Our welbeloued seruant, Captaine <hi>Iohn Read,</hi> in the ex<g ref="char:EOLhyphen"/>ecution of the trust in him reposed concerning the reformation there<g ref="char:EOLhyphen"/>of (wherewith we are well satisfied) many great abuses are still committed by Farmors, Dairiemen, Packers of Butter, and others, by putting vp of corrupt and vnwholsome Butter with good Creame Butter, and by making of new Heads or new Boards to some part of old sealed Caskes, and by counterfeiting the Stampe with which the said Butter-Caskes be marked, &amp; likewise by Putting, Packing, Ship<g ref="char:EOLhyphen"/>ping, and Transporting of Butter in Caskes &amp; Vessels before they be marked, &amp; also by putting of greater quantities of Salt into those Vessels then is necessary for the preseruation of the Butter therein contained, and weighing the same Butter with vnsealed and deceitfull Weights and Balances: All which seuerall falshoods, frauds, and misdemeanours, being of euill con<g ref="char:EOLhyphen"/>sequence to the common wealth, and contemptuously committed against the tenor of Our for<g ref="char:EOLhyphen"/>mer Proclamation (which We will shall be in all things in violably obserued;) Therefore the better to meet with these and the like obstinate Offendors, We haue enlarged the power of Our said Seruant, his Assignes and Deputies, by Our late Letters Patents vnder Our great Seale of <hi>England;</hi> And doe hereby giue Our people timely notice thereof, that they may preuent the punishment which is iustly to fall vpon them, if hereafter they happen to be found transgressors in the Premisses, or any of them.</p>
+            <pb facs="tcp:188368:2"/>
+            <p>And We doe hereby charge and command, all Coopers and Potters respectiuely, that from henceforth they make all Firkins of one size, and they to conteine fifty fire pounds neat But<g ref="char:EOLhyphen"/>ter, and so after the like rate for Kilderkins and Barrels, and all Pots to hold fourteene pounds neat Butter, without fraud or guile: And that the said Coopers and Potters doe and shall set his and their distinct marke vpon euery such Caske, Pot, or Vessell, by him and them to b emade, to the end the Delinquents may be discouered, and receiue condigne punish<g ref="char:EOLhyphen"/>ment according to their demerits. To the end therefore that the frauds and Offendors afore<g ref="char:EOLhyphen"/>said may be the fooner discouered, Our will and pleasure is, that the said Captaine <hi>Iohn Reade,</hi> his Assignes and Deputies, and euery of them, shall set a distinct Marke vpon euery Vessell or Caske by them hereafter to be sealed and marked; And also that euery Maker, and Packer vp of Butter into any Caske or Vessell, do and shall from time to time hereafter set his and their priuate Marke vpon euery Vessell or Caske to be filled with Butter, whereby the defectiue Butter, either in weight or goodnesse, and the persons by whom the same was made, packed vp, or filled, may be the better discouered. And if the Offendors aforesaid, or any of them, shall notwithstanding these Our Princely Commands, wilfully and contemptuously proceede and continue in committing any the aforesaid offences, whereof by this Our Proclamation they are forewarned and restrained, We doe hereby giue further power and authority vnto Our said seruant, his Deputie and Deputies, with the assistance of a Constable, or other Officer, to enter and goe into any Faires, Markets, Houses, Shops, Warehouses, Ports, Harbors, Ships, Vessels, and all other places whatsoeuer, within this Our Kingdome of <hi>England</hi> and Dominion of <hi>Wales,</hi> to search for and discouer all Butter-Vessels deceitfully made, put to sale vnbranded, branded with any counterfeit Brand, or filled with Butter wanting the due weight in Butter, as aforesaid, or corrupt Butter mingled with good Butter; and finding any such, to seize and destroy the same, or put the same into safe custodie vntill they shall be otherwise dis<g ref="char:EOLhyphen"/>posed of, according to the Lawes and Statutes of this Realme, and the Offendors condignly punished according to their demerits.</p>
+            <p>Lastly, We doe hereby for Vs, Our Heires, and Successors, charge and command all and singular Maiors, Iustices of Peace, Sheriffes, Bailiffes, Constables, Headboroughs, and all other Officers and Ministers whomsoeuer, of Vs, Our Heires and Successors, within this Our Realme of <hi>England,</hi> and Dominion of <hi>Wales,</hi> to be aiding, assisting, and helping vnto the said Captaine <hi>Iohn Reade,</hi> his Deputie and Deputies, and euery of them in the due execution of the said Office, and of Our will and pleasure herein, and in Our former Proclamation and Letters Patents expressed, according to the true meaning of these presents, whensoeuer they or any of them shall be thereunto desired, and in no wise to hinder, interrupt, or molest him or them in any thing concerning the execution and performance of this seruice, as they tender Our pleasure, and will auoid the contrary at their perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at Oatlands,</hi>
+                  <date>
+                     <hi> the sixteenth day of Iuly, in the thirteenth yeere of Our Reigne.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <trailer>❧ <hi>God save the King.</hi>
+            </trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie: And by the Assignes of IOHN BILL. 1637.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
